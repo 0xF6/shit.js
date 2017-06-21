@@ -1,0 +1,22 @@
+{
+  "name": "shit",
+  "version": "0.0.4-rc.1",
+  "description": "Went the shit over the shit, seen the shit in the shit the shit, shit shit shit shit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnotherAltr/shit.git"
+  },
+  "keywords": [
+    "shit"
+  ],
+  "author": "Yuuki Wesp & Alice Klipper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnotherAltr/shit/issues"
+  },
+  "homepage": "https://github.com/AnotherAltr/shit#readme"
+}
